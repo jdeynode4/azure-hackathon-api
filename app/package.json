@@ -1,8 +1,12 @@
 {
   "scripts": {
-    "serve": "node index"
+    "serve": "nodemon index"
   },
   "dependencies": {
+    "dotenv": "^6.2.0",
+    "ioredis": "^4.6.2",
+    "kue": "^0.11.6",
+    "redis": "^2.8.0",
     "socket.io": "^2.2.0"
   }
 }
