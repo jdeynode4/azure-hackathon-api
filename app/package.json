@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "serve": "node index"
+  },
+  "dependencies": {
+    "socket.io": "^2.2.0"
+  }
+}
